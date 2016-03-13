@@ -11,4 +11,4 @@ author: ImagicalGamer
 commands:
     sw:
         usage: /sw make SkyWars
-        description: SurvivalGames-Commands
+        description: to set SkyWars Setup Mode
