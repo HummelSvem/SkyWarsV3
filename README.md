@@ -1,2 +1,2 @@
 # SkyWarsV3
-SkyWars plugin for PocketMine - ImagicalMine
+SkyWars plugin for PocketMine - ImagicalMine!!!
