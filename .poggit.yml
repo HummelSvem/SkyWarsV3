@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/HummelSvem/SkyWarsV3
+branches:
+- master
+projects:
+  SkyWarsV3:
+    path: ""
+...
